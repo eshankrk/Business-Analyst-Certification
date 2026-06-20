@@ -10,10 +10,8 @@ The program focused on transforming raw business data into actionable insights u
 * *Issued By:* Simplilearn SkillUp
 * *Core Focus:* Data Management, Dashboard Design, Business Reporting, and Forecasting.
 
-<p align="center">
-  <img src="<img width="1999" height="1414" alt="image" src="https://github.com/user-attachments/assets/0db68e7e-6444-4813-b7dd-02c31025004e" />
-" alt="Certificate of Completion" width="80%">
-</p>
+<img width="1999" height="1414" alt="image" src="https://github.com/user-attachments/assets/b2eaed64-debc-42c3-8c7a-0fd1c0c9748c" />
+
 
 ---
 
